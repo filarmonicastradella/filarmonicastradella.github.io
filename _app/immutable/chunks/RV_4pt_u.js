@@ -1,0 +1,1 @@
+const r=""+new URL("../assets/wallpaper.ChsKy4sn.jpg",import.meta.url).href,p=t=>t;function c(t,{delay:e=0,duration:s=400,easing:a=p}={}){const o=+getComputedStyle(t).opacity;return{delay:e,duration:s,easing:a,css:n=>`opacity: ${n*o}`}}export{r as b,c as f};

@@ -1,1 +1,0 @@
-import"../chunks/DsnmJJEf.js";import"../chunks/69_IOA4Y.js";import{j as t,k as r,n as p}from"../chunks/CqufF5gg.js";var e=r('<h1>About</h1> <p>Questa è la pagina About del sito statico.</p> <a href="/">Torna alla home</a>',1);function s(a){var o=e();p(4),t(a,o)}export{s as component};
